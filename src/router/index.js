@@ -51,7 +51,9 @@ export default new Router({ // 对外暴露接口
 
 
 //组长
+
 // git init 
+//git status
 //git add --a
 //git config --global user.email '758639611@QQ.com'
 //git config --global user.name "names"
