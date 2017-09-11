@@ -1,6 +1,7 @@
 <template>
     <div>
         <div>这是页面的顶部</div>     
+        <div>顶</div>
     </div>
 </template>
 

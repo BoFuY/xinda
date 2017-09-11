@@ -55,10 +55,9 @@ export default new Router({ // 对外暴露接口
 // git init 
 //git status
 //git add --a
-//git config --global user.email '758639611@QQ.com'
-//git config --global user.name "names"
 //git commit -a -m 'init'
-//git remote add origin '...地址'
+//git remote rm origin           //如果出现fatal: remote origin already exists. 
+//git remote add origin '...地址'           ////git config --global user.email '758639611@QQ.com'//git config --global user.name "names"
 //git push -u origin master   //分支   -u联系起来
 
 
